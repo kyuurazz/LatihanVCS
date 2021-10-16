@@ -76,6 +76,7 @@ local, gunakan perintah git commit -m "nama project"
 > git push -u origin master
 ```
 <img src="https://user-images.githubusercontent.com/91085882/137573735-0409af06-a809-416a-b897-e2c8f7625bdf.png">
+
 - Selesai
 
 # TERIMAKASIH
