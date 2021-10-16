@@ -12,9 +12,9 @@
 <p align="center">
 
 <p align="center">
-<a href="https://github.com/Urbaexyz/whatsapp-bot#Requirements">Requirements</a> •
-<a href="https://github.com/Urbaexyz/whatsapp-bot#Informasi">Informasi</a> •
-<a href="https://github.com/Urbaexyz/whatsapp-bot#Tutorial">Tutorial</a>
+<a href="https://github.com/kyuurazz/LatihanVCS#Requirements">Requirements</a> •
+<a href="https://github.com/kyuurazz/LatihanVCS#Informasi">Informasi</a> •
+<a href="https://github.com/kyuurazz/LatihanVCS#Tutorial">Tutorial</a>
 </p>
 </div>
 
