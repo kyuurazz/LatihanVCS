@@ -34,27 +34,27 @@ Username dan Email. Jalankan perintah berikut:
 > git config --global user.name "username"
 > git config --global user.email "email"
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137571404-8393bdd6-a910-418a-8f69-cce05ac756cb.png">
+![Gambar 1](Screenshots/Screenshot (1).png)
 
 - Jalankan perintah git init. untuk membuat repository local
 ```bash
 > git init
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137571564-da9c1c69-0bcf-4053-b890-34311f77046d.png">
+![Gambar 2](Screenshots/Screenshot (2).png)
 
 - Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan
 filenya pada repository. Sebagai contoh disini saya akan membuat file README.md dengan perintah berikut
 ```bash
 > echo "# Latihan1" >> README.md
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137571839-020c463a-5789-4354-b3c0-3b0a160b7f44.png">
+![Gambar 3](Screenshots/Screenshot (3).png)
 
 - Untuk menambahkan file yang sudah kita buat, gunakan perintah git add (Nama File) atau bisa menggunakan git add . (Jika file nya ada banyak)
 ```bash
 > git add README.md
 > git add .
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137572207-d67bd8af-bf62-414d-886b-32c2866a77fb.png">
+![Gambar 4](Screenshots/Screenshot (4).png)
 
 - Untuk menyimpan perubahan yang ada kedalam database repository
 local, gunakan perintah git commit -m "nama project"
@@ -62,20 +62,20 @@ local, gunakan perintah git commit -m "nama project"
 ```bash
 > git commit -m "First Project"
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137572483-a13054e8-190d-4748-9d1f-1a23635dd9dc.png">
+![Gambar 5](Screenshots/Screenshot (5).png)
 
 - Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
 ```bash
 > git remote add origin https://github.com/kyuurazz/LatihanVCS.git
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137573795-885c1421-5397-4f92-b0b0-130c95417573.png">
+![Gambar 6](Screenshots/Screenshot (6).png)
 
 - Untuk mengirim perubahan pada repository local ke server, gunakan perintah git push
 - Perintah ini akan meminta Username dan Password pada akun github mu
 ```bash
 > git push -u origin master
 ```
-<img src="https://user-images.githubusercontent.com/91085882/137573735-0409af06-a809-416a-b897-e2c8f7625bdf.png">
+![Gambar 7](Screenshots/Screenshot (7).png)
 
 - Selesai
 
