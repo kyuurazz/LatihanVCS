@@ -34,27 +34,27 @@ Username dan Email. Jalankan perintah berikut:
 > git config --global user.name "username"
 > git config --global user.email "email"
 ```
-![Gambar 1](Screenshots/Screenshot (1).png)
+![Gambar 1](Screenshots/ss1.png)
 
 - Jalankan perintah git init. untuk membuat repository local
 ```bash
 > git init
 ```
-![Gambar 2](Screenshots/Screenshot (2).png)
+![Gambar 2](Screenshots/ss2.png)
 
 - Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan
 filenya pada repository. Sebagai contoh disini saya akan membuat file README.md dengan perintah berikut
 ```bash
 > echo "# Latihan1" >> README.md
 ```
-![Gambar 3](Screenshots/Screenshot (3).png)
+![Gambar 3](Screenshots/ss3.png)
 
 - Untuk menambahkan file yang sudah kita buat, gunakan perintah git add (Nama File) atau bisa menggunakan git add . (Jika file nya ada banyak)
 ```bash
 > git add README.md
 > git add .
 ```
-![Gambar 4](Screenshots/Screenshot (4).png)
+![Gambar 4](Screenshots/ss4.png)
 
 - Untuk menyimpan perubahan yang ada kedalam database repository
 local, gunakan perintah git commit -m "nama project"
@@ -62,20 +62,20 @@ local, gunakan perintah git commit -m "nama project"
 ```bash
 > git commit -m "First Project"
 ```
-![Gambar 5](Screenshots/Screenshot (5).png)
+![Gambar 5](Screenshots/ss5.png)
 
 - Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
 ```bash
 > git remote add origin https://github.com/kyuurazz/LatihanVCS.git
 ```
-![Gambar 6](Screenshots/Screenshot (6).png)
+![Gambar 6](Screenshots/ss6.png)
 
 - Untuk mengirim perubahan pada repository local ke server, gunakan perintah git push
 - Perintah ini akan meminta Username dan Password pada akun github mu
 ```bash
 > git push -u origin master
 ```
-![Gambar 7](Screenshots/Screenshot (7).png)
+![Gambar 7](Screenshots/ss7.png)
 
 - Selesai
 
