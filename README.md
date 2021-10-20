@@ -76,12 +76,15 @@ local, gunakan perintah git commit -m "nama project"
 > git push -u origin master
 ```
 ![Gambar 7](Screenshots/ss7.png)
+<<<<<<< HEAD
 
 - Jika sudah berhasil, maka tampilan nya akan seperti dibawah ini
 ![Gambar 8](Screenshots/ss8.png)
 
 - Dan file sudah berhasil di upload ke Github anda
 ![Gambar 9](Screenshots/ss9.png)
+=======
+>>>>>>> e44e45d5399a8b795c7a733219c5182f610ffd81
 
 - Selesai
 
