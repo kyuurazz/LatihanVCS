@@ -5,9 +5,6 @@
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
 </p>
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=628979234468"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
-<p align="center">
-<p align="center">
 <a href="https://github.com/kyuurazz"><img title="Author" src="https://img.shields.io/badge/Author%20-Bilal%20Hafidz-blue.svg?style=flat&logo=github"></a>
 <p align="center">
 
