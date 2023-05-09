@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/kyuurazz/LatihanVCS#Requirements">Requirements</a> •
-<a href="https://github.com/kyuurazz/LatihanVCS#InformasiGit">Informasi</a> •
+<a href="https://github.com/kyuurazz/LatihanVCS#informasi-git">Informasi</a> •
 <a href="https://github.com/kyuurazz/LatihanVCS#Tutorial">Tutorial</a>
 </p>
 </div>
