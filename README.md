@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/kyuurazz/LatihanVCS#Requirements">Requirements</a> •
-<a href="https://github.com/kyuurazz/LatihanVCS#Informasi">Informasi</a> •
+<a href="https://github.com/kyuurazz/LatihanVCS#Informasi Git">Informasi</a> •
 <a href="https://github.com/kyuurazz/LatihanVCS#Tutorial">Tutorial</a>
 </p>
 </div>
@@ -18,7 +18,7 @@
 # Requirements
 - [Git](https://git-scm.com/download)
 
-# Informasi
+# Informasi Git
 Apa itu Git?
 <p>
 Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. Developer software biasa menggunakan Git untuk distributed revision (VCS terdistribusi), hal ini bertujuan untuk menyimpan database tidak hanya ke satu tempat. Namun semua orang yang terlibat dalam penyusunan kode dapat menyimpan database ini.
